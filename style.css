@@ -1,0 +1,19 @@
+@media(min-width: 600px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+
+
+@media(min-width: 768px) {
+    .c-info {
+        width: 50%;
+    }
+}
+
+ .c-dis {
+   
+   
+    border-radius: 25px;
+    }
